@@ -1,5 +1,6 @@
 {
-    "token": "",
+    "token": "
+   ",
     "prefix": "b-",
     "commanddir": "/Users/coding.../Desktop/BotWorld 3.0/commands/",
     "commands": ["basic", "fun", "admin", "economy", "music"]
